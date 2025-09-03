@@ -100,7 +100,7 @@ An interactive Java Swing ATM simulator for user authentication, transactions, s
 - Realistic transaction management.
 
 
-## 🧑‍💻 License
+## 🧑‍💻 Contributors & License
 
--Built by- AMMAR YASIR
--MIT
+Built by Ammar Yasir.  
+MIT License
