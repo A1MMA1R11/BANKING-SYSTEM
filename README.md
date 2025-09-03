@@ -24,13 +24,23 @@ An interactive Java Swing ATM simulator for user authentication, transactions, s
 ![Cash Withdraw](Cash_Withdraw_Screen.png)
 
 
+## 🖥️ Technologies Used
 
-## 🚀 Features
+- **Java Swing** – UI toolkit for desktop interface.
+- **JDBC** – Database connectivity.
+- **MySQL** – Persistent transactional storage.
 
-- User Registration & Login (Card No & PIN)
-- Deposit, Withdrawal, Fast Cash
-- Mini Statement & Balance Inquiry
-- PIN Change & graphical ATM simulation
+
+## 🚀 Features & Modules
+
+- **User Registration & Login:** Secure sign-up process and card/PIN-based authentication.
+- **Deposit & Withdrawal:** Accurate balance management with user-friendly confirmation dialogs.
+- **Fast Cash:** Quick access to common, preset withdrawal amounts.
+- **PIN Change:** Easily change your PIN, with immediate effect across all ATM features.
+- **Mini Statement:** Scrollable, easy-to-read display of recent transactions.
+- **Balance Inquiry:** Instantly check your available account balance.
+- **Graphical ATM Simulation:** Modern, intuitive interface for a realistic banking experience.
+
 
 ## 📈 Example Transaction Table
 
@@ -82,7 +92,15 @@ An interactive Java Swing ATM simulator for user authentication, transactions, s
    - Explore all banking features with your new account.
 
 
+## 💡 Project Highlights
+
+- Modern ATM simulation for desktop.
+- Clearly structured, maintainable code.
+- Easy extensibility for new features.
+- Realistic transaction management.
+
 
 ## 🧑‍💻 License
 
+Built by- AMMAR YASIR
 MIT
