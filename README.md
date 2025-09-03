@@ -102,5 +102,5 @@ An interactive Java Swing ATM simulator for user authentication, transactions, s
 
 ## 🧑‍💻 License
 
-Built by- AMMAR YASIR
-MIT
+-Built by- AMMAR YASIR
+-MIT
